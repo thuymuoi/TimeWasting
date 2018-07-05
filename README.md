@@ -24,6 +24,9 @@
 * Hot Springs National Park - AR
 * Petrified Forest National Park - AZ
 * Saguaro National Park - AZ 
+* Pinnacles National Park - CA
+* Channel Islands National Park - CA
+* Lassen Volcanic National Park - CA
 
 ## National Monuments
 * Cabrillo National Monument - CA
@@ -56,3 +59,7 @@
 ## Books
 * [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one) by Peter Thiel, Blake Masters
 * [Good to Great: Why Some Companies Make the Leap And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996/ref=sr_1_1?ie=UTF8&qid=1530579114&sr=8-1&keywords=good+to+great) by Jim Collins
+
+## Korean Dramas
+* What's Wrong with Secretary Kim?
+* About Time
